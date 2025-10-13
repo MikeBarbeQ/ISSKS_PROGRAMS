@@ -1,0 +1,15 @@
+2025-10-10 10:36:25.158 [info] Getting Manifest... ms-python.debugpy
+2025-10-10 10:36:25.161 [info] Getting Manifest... ms-python.python
+2025-10-10 10:36:25.249 [info] Installing extension: ms-python.debugpy {"productVersion":{"version":"1.104.3","date":"2025-10-02T12:30:51.747Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mikel/.vscode/extensions/extensions.json","path":"/home/mikel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-10-10 10:36:25.250 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.104.3","date":"2025-10-02T12:30:51.747Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mikel/.vscode/extensions/extensions.json","path":"/home/mikel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-10-10 10:36:25.393 [info] Getting Manifest... ms-python.python
+2025-10-10 10:36:30.518 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 1848ms.
+2025-10-10 10:36:31.189 [info] Extension signature verification result for ms-python.debugpy: Success. Internal Code: 0. Executed: true. Duration: 885ms.
+2025-10-10 10:36:31.792 [info] Extracted extension to file:///home/mikel/.vscode/extensions/ms-python.debugpy-2025.14.0-linux-x64: ms-python.debugpy
+2025-10-10 10:36:31.837 [info] Renamed to /home/mikel/.vscode/extensions/ms-python.debugpy-2025.14.0-linux-x64
+2025-10-10 10:36:31.858 [info] Marked extension as removed ms-python.debugpy-2025.10.0-linux-x64
+2025-10-10 10:36:31.874 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/mikel/.vscode/extensions/extensions.json
+2025-10-10 10:36:32.170 [info] Extracted extension to file:///home/mikel/.vscode/extensions/ms-python.python-2025.16.0-linux-x64: ms-python.python
+2025-10-10 10:36:32.267 [info] Renamed to /home/mikel/.vscode/extensions/ms-python.python-2025.16.0-linux-x64
+2025-10-10 10:36:32.293 [info] Marked extension as removed ms-python.python-2025.14.0-linux-x64
+2025-10-10 10:36:32.298 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/mikel/.vscode/extensions/extensions.json

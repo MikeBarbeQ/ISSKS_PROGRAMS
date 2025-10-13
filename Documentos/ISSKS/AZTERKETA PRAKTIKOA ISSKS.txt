@@ -1,0 +1,28 @@
+AZTERKETA PRAKTIKOA - ISSKS - GAZTELERA - 2025/2026
+
+
+1.ARIKETA
+Lehenik eta behin artxiboa deskonprimitu behar da, direktorio bat sortu eta direktorioan sartu. Behin sartuta, zip horren mezuak md5sum komandoren bitartez sortuko dira hash-ak. Eta erabili ahal den komandoa topatzeko hurrengoa da:
+
+md5sum * | grep '9e1cda999b728d2cd7c5ddb4a662522'
+
+2. ARIKETA
+Irakasleak, Shell Script HTML apunteak edo diapositiba berriak sortzeko erabiltzen du gero PDF batera trukatzeko shower pdf komandoarekin.
+
+MD5-eko hashing teknikak erabiltzen ditu, md5sum eta shower komandoak erabiltzen ditu eta PWD erabiltzen du egiten ari dena escritorio egokian dagoela baieztatzeko.
+
+4. ARIKETA
+sftp bgpegarm@34.175.2.20
+get README.md.gpg
+exit
+gpg --encrypt README.md.gpg > resultado_readme.md
+Desenkriptatzean mezu bat aterako da pantailan sinadura egokia dela.
+
+5. ARIKETA
+gpg --import Paco.asc
+gpg --edit-key paco@gmail.com
+trust 
+quit
+
+6
+

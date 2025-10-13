@@ -1,0 +1,36 @@
+2025-10-11 10:45:45.523 [info] Started local extension host with pid 5201.
+2025-10-11 10:45:48.380 [info] Auto updating outdated extensions. ms-python.vscode-python-envs
+2025-10-11 10:45:48.431 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-11 10:45:49.245 [info] [perf] Render performance baseline is 24ms
+2025-10-11 10:45:49.369 [info] Auto updating outdated extensions. ms-python.vscode-python-envs
+2025-10-11 10:45:49.815 [error] Collection or definition not found for ms-python.vscode-pylance/pylanceMcp and ms-python.vscode-pylance/pylance mcp server: Error: Collection or definition not found for ms-python.vscode-pylance/pylanceMcp and ms-python.vscode-pylance/pylance mcp server
+    at lht.resolveConnection (vscode-file://vscode-app/snap/code/209/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2160:2100)
+    at vscode-file://vscode-app/snap/code/209/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2160:11387
+    at vscode-file://vscode-app/snap/code/209/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:73168
+2025-10-11 10:45:50.321 [error] [UriError]: Scheme contains illegal characters.: Error: [UriError]: Scheme contains illegal characters.
+    at z6 (file:///snap/code/209/usr/share/code/resources/app/out/main.js:30:64298)
+    at new od (file:///snap/code/209/usr/share/code/resources/app/out/main.js:30:67678)
+    at new zr (file:///snap/code/209/usr/share/code/resources/app/out/main.js:30:69116)
+    at od.revive (file:///snap/code/209/usr/share/code/resources/app/out/main.js:30:68893)
+    at o5.call (file:///snap/code/209/usr/share/code/resources/app/out/main.js:88:105741)
+    at Lf.s (file:///snap/code/209/usr/share/code/resources/app/out/main.js:31:14859)
+    at Lf.q (file:///snap/code/209/usr/share/code/resources/app/out/main.js:31:14382)
+    at Xo.value (file:///snap/code/209/usr/share/code/resources/app/out/main.js:31:13784)
+    at P.C (file:///snap/code/209/usr/share/code/resources/app/out/main.js:30:2373)
+    at P.D (file:///snap/code/209/usr/share/code/resources/app/out/main.js:30:2443)
+    at P.fire (file:///snap/code/209/usr/share/code/resources/app/out/main.js:30:2660)
+    at Xo.value (file:///snap/code/209/usr/share/code/resources/app/out/main.js:28:4922)
+    at P.C (file:///snap/code/209/usr/share/code/resources/app/out/main.js:30:2373)
+    at P.fire (file:///snap/code/209/usr/share/code/resources/app/out/main.js:30:2591)
+    at Xo.value (file:///snap/code/209/usr/share/code/resources/app/out/main.js:28:5110)
+    at P.C (file:///snap/code/209/usr/share/code/resources/app/out/main.js:30:2373)
+    at P.fire (file:///snap/code/209/usr/share/code/resources/app/out/main.js:30:2591)
+    at N (file:///snap/code/209/usr/share/code/resources/app/out/main.js:28:7404)
+    at IpcMainImpl.i (file:///snap/code/209/usr/share/code/resources/app/out/main.js:36:10776)
+    at IpcMainImpl.emit (node:events:518:28)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:106370)
+    at Session.emit (node:events:518:28)
+2025-10-11 10:48:05.148 [error] Server[pid=6151] disconnected unexpectedly: CodeExpectedError: Server[pid=6151] disconnected unexpectedly
+    at jpt.Q (vscode-file://vscode-app/snap/code/209/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:15454)
+    at vscode-file://vscode-app/snap/code/209/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:15032
+    at async _pt.cb (vscode-file://vscode-app/snap/code/209/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:30619)

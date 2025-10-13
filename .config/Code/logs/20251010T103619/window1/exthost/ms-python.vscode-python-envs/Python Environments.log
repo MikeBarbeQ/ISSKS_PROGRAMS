@@ -1,0 +1,131 @@
+2025-10-10 10:36:25.133 [info] 
+=== Python Envs Configuration Levels ===
+2025-10-10 10:36:25.133 [info] {
+  "section": "Python Envs Configuration Levels",
+  "defaultEnvManager": {
+    "workspaceFolderValue": "undefined",
+    "workspaceValue": "undefined",
+    "globalValue": "undefined",
+    "defaultValue": "ms-python.python:venv"
+  },
+  "defaultPackageManager": {
+    "workspaceFolderValue": "undefined",
+    "workspaceValue": "undefined",
+    "globalValue": "undefined",
+    "defaultValue": "ms-python.python:pip"
+  }
+}
+2025-10-10 10:36:25.133 [info] Starting Python Locator /home/mikel/.vscode/extensions/ms-python.vscode-python-envs-1.8.0-linux-x64/python-env-tools/bin/pet server
+2025-10-10 10:36:25.552 [info] Discovered env: /bin/python3
+2025-10-10 10:36:25.552 [info] Discovered env: /usr/bin/python3
+2025-10-10 10:36:25.554 [info] Locator Conda took 78.255429ms
+2025-10-10 10:36:25.554 [info] Locator Homebrew took 299.297µs
+2025-10-10 10:36:25.554 [info] Locator LinuxGlobal took 81.03722ms
+2025-10-10 10:36:25.554 [info] Locator PipEnv took 45.8µs
+2025-10-10 10:36:25.554 [info] Locator Pixi took 35.778µs
+2025-10-10 10:36:25.554 [info] Locator Poetry took 362.993µs
+2025-10-10 10:36:25.555 [info] Locator PyEnv took 399.55µs
+2025-10-10 10:36:25.555 [info] Locator Venv took 31.639µs
+2025-10-10 10:36:25.555 [info] Locator VirtualEnv took 60.905µs
+2025-10-10 10:36:25.555 [info] Locator VirtualEnvWrapper took 30.946µs
+2025-10-10 10:36:25.555 [info] Locator GlobalVirtualEnvs took 457.896µs
+2025-10-10 10:36:25.555 [info] Locator Locators took 83.012805ms
+2025-10-10 10:36:25.555 [info] Locator Path took 102.981925ms
+2025-10-10 10:36:25.555 [info] Locator Workspaces took 1.974µs
+2025-10-10 10:36:25.559 [info] Conda not found, turning off conda features. [Error: Conda not found
+	at R (/home/mikel/.vscode/extensions/ms-python.vscode-python-envs-1.8.0-linux-x64/dist/extension.js:2:525426)
+	at async F (/home/mikel/.vscode/extensions/ms-python.vscode-python-envs-1.8.0-linux-x64/dist/extension.js:2:525551)
+	at async t.registerCondaFeatures (/home/mikel/.vscode/extensions/ms-python.vscode-python-envs-1.8.0-linux-x64/dist/extension.js:2:541838)
+	at async Promise.all (index 1)
+	at async Immediate.<anonymous> (/home/mikel/.vscode/extensions/ms-python.vscode-python-envs-1.8.0-linux-x64/dist/extension.js:2:673393)]
+2025-10-10 10:36:25.561 [info] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":103,"breakdown":{"GlobalVirtualEnvs":0,"Locators":83,"Path":102,"Workspaces":0},"locators":{"Conda":78,"Homebrew":0,"LinuxGlobal":81,"PipEnv":0,"Pixi":0,"Poetry":0,"PyEnv":0,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2025-10-10 10:36:25.629 [info] Discovered env: /bin/python3
+2025-10-10 10:36:25.632 [info] Discovered env: /usr/bin/python3
+2025-10-10 10:36:25.648 [info] Locator Conda took 64.808779ms
+2025-10-10 10:36:25.648 [info] Locator Homebrew took 287.182µs
+2025-10-10 10:36:25.648 [info] Locator LinuxGlobal took 67.218439ms
+2025-10-10 10:36:25.648 [info] Locator PipEnv took 139.987µs
+2025-10-10 10:36:25.648 [info] Locator Pixi took 92.659µs
+2025-10-10 10:36:25.648 [info] Locator Poetry took 134.749µs
+2025-10-10 10:36:25.648 [info] Locator PyEnv took 148.706µs
+2025-10-10 10:36:25.648 [info] Locator Venv took 24.866µs
+2025-10-10 10:36:25.648 [info] Locator VirtualEnv took 108.301µs
+2025-10-10 10:36:25.649 [info] Locator VirtualEnvWrapper took 55.064µs
+2025-10-10 10:36:25.649 [info] Locator GlobalVirtualEnvs took 110.666µs
+2025-10-10 10:36:25.649 [info] Locator Locators took 70.688859ms
+2025-10-10 10:36:25.649 [info] Locator Path took 85.14026ms
+2025-10-10 10:36:25.649 [info] Locator Workspaces took 1.853µs
+2025-10-10 10:36:25.649 [info] Pipenv not found
+2025-10-10 10:36:25.649 [info] Pipenv not found, turning off pipenv features.
+2025-10-10 10:36:25.650 [info] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":85,"breakdown":{"GlobalVirtualEnvs":0,"Locators":70,"Path":85,"Workspaces":0},"locators":{"Conda":64,"Homebrew":0,"LinuxGlobal":67,"PipEnv":0,"Pixi":0,"Poetry":0,"PyEnv":0,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2025-10-10 10:36:25.723 [info] Discovered env: /bin/python3
+2025-10-10 10:36:25.726 [info] Discovered env: /usr/bin/python3
+2025-10-10 10:36:25.748 [info] Locator Conda took 69.656802ms
+2025-10-10 10:36:25.749 [info] Locator Homebrew took 124.497µs
+2025-10-10 10:36:25.749 [info] Locator LinuxGlobal took 73.004382ms
+2025-10-10 10:36:25.749 [info] Locator PipEnv took 25.229µs
+2025-10-10 10:36:25.749 [info] Locator Pixi took 45.002µs
+2025-10-10 10:36:25.749 [info] Locator Poetry took 97.783µs
+2025-10-10 10:36:25.749 [info] Locator PyEnv took 237.709µs
+2025-10-10 10:36:25.749 [info] Locator Venv took 29.091µs
+2025-10-10 10:36:25.749 [info] Locator VirtualEnv took 32.174µs
+2025-10-10 10:36:25.749 [info] Locator VirtualEnvWrapper took 44.435µs
+2025-10-10 10:36:25.749 [info] Locator GlobalVirtualEnvs took 97.696µs
+2025-10-10 10:36:25.749 [info] Locator Locators took 74.777934ms
+2025-10-10 10:36:25.749 [info] Locator Path took 96.978558ms
+2025-10-10 10:36:25.750 [info] Locator Workspaces took 1.46µs
+2025-10-10 10:36:25.751 [info] Pyenv not found, turning off pyenv features.
+2025-10-10 10:36:25.751 [info] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":97,"breakdown":{"GlobalVirtualEnvs":0,"Locators":74,"Path":96,"Workspaces":0},"locators":{"Conda":69,"Homebrew":0,"LinuxGlobal":73,"PipEnv":0,"Pixi":0,"Poetry":0,"PyEnv":0,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2025-10-10 10:36:25.821 [info] Discovered env: /bin/python3
+2025-10-10 10:36:25.824 [info] Discovered env: /usr/bin/python3
+2025-10-10 10:36:25.838 [info] Locator Conda took 63.090347ms
+2025-10-10 10:36:25.838 [info] Locator Homebrew took 1.13505ms
+2025-10-10 10:36:25.838 [info] Locator LinuxGlobal took 68.545005ms
+2025-10-10 10:36:25.838 [info] Locator PipEnv took 29.41µs
+2025-10-10 10:36:25.838 [info] Locator Pixi took 115.402µs
+2025-10-10 10:36:25.838 [info] Locator Poetry took 130.993µs
+2025-10-10 10:36:25.838 [info] Locator PyEnv took 304.898µs
+2025-10-10 10:36:25.838 [info] Locator Venv took 231.313µs
+2025-10-10 10:36:25.838 [info] Locator VirtualEnv took 180.21µs
+2025-10-10 10:36:25.838 [info] Locator VirtualEnvWrapper took 37.563µs
+2025-10-10 10:36:25.838 [info] Locator GlobalVirtualEnvs took 254.915µs
+2025-10-10 10:36:25.838 [info] Locator Locators took 71.605729ms
+2025-10-10 10:36:25.838 [info] Locator Path took 85.942005ms
+2025-10-10 10:36:25.838 [info] Locator Workspaces took 1.648µs
+2025-10-10 10:36:25.839 [info] Poetry not found, turning off poetry features.
+2025-10-10 10:36:25.840 [info] [resolveDefaultInterpreter] User configured defaultInterpreterPath: /bin/python3 and defaultEnvManager: undefined
+2025-10-10 10:36:25.841 [info] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":86,"breakdown":{"GlobalVirtualEnvs":0,"Locators":71,"Path":85,"Workspaces":0},"locators":{"Conda":63,"Homebrew":1,"LinuxGlobal":68,"PipEnv":0,"Pixi":0,"Poetry":0,"PyEnv":0,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2025-10-10 10:36:25.937 [info] Discovered env: /bin/python3
+2025-10-10 10:36:25.943 [info] Discovered env: /usr/bin/python3
+2025-10-10 10:36:25.948 [info] Resolved Python Environment /bin/python3
+2025-10-10 10:36:25.961 [info] Locator Conda took 94.605982ms
+2025-10-10 10:36:25.961 [info] Locator Homebrew took 171.674µs
+2025-10-10 10:36:25.962 [info] Locator LinuxGlobal took 98.377249ms
+2025-10-10 10:36:25.962 [info] Locator PipEnv took 42.327µs
+2025-10-10 10:36:25.962 [info] Locator Pixi took 35.129µs
+2025-10-10 10:36:25.962 [info] Locator Poetry took 114.101µs
+2025-10-10 10:36:25.962 [info] Locator PyEnv took 179.919µs
+2025-10-10 10:36:25.962 [info] Locator Venv took 330.726µs
+2025-10-10 10:36:25.962 [info] Locator VirtualEnv took 83.178µs
+2025-10-10 10:36:25.962 [info] Locator VirtualEnvWrapper took 32.604µs
+2025-10-10 10:36:25.962 [info] Locator GlobalVirtualEnvs took 231.773µs
+2025-10-10 10:36:25.962 [info] Locator Locators took 101.860372ms
+2025-10-10 10:36:25.962 [info] Locator Path took 120.05131ms
+2025-10-10 10:36:25.962 [info] Locator Workspaces took 2.415µs
+2025-10-10 10:36:25.977 [info] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":120,"breakdown":{"GlobalVirtualEnvs":0,"Locators":101,"Path":120,"Workspaces":0},"locators":{"Conda":94,"Homebrew":0,"LinuxGlobal":98,"PipEnv":0,"Pixi":0,"Poetry":0,"PyEnv":0,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2025-10-10 10:36:25.978 [info] Locator GlobalVirtualEnvs took 433ns
+2025-10-10 10:36:25.978 [info] Locator Locators took 399ns
+2025-10-10 10:36:25.978 [info] Locator Path took 571ns
+2025-10-10 10:36:25.978 [info] Locator Workspaces took 2.026µs
+2025-10-10 10:36:25.983 [info] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":0,"breakdown":{"GlobalVirtualEnvs":0,"Locators":0,"Path":0,"Workspaces":0},"locators":{}}}}
+2025-10-10 10:36:25.983 [info] Locator GlobalVirtualEnvs took 443ns
+2025-10-10 10:36:25.984 [info] Locator Locators took 585ns
+2025-10-10 10:36:25.984 [info] Locator Path took 290ns
+2025-10-10 10:36:25.984 [info] Locator Workspaces took 1.461µs
+2025-10-10 10:36:26.033 [info] Python API: Changed environment from undefined to Python 3.12.3 for: global
+2025-10-10 10:36:26.033 [info] Internal: Changed environment from undefined to Python 3.12.3 for: global
+2025-10-10 10:36:26.040 [info] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":0,"breakdown":{"GlobalVirtualEnvs":0,"Locators":0,"Path":0,"Workspaces":0},"locators":{}}}}
+2025-10-10 10:36:40.602 [info] Resolved Python Environment /bin/python3
+2025-10-10 10:36:40.620 [info] Resolved Python Environment /bin/python3
+2025-10-10 10:36:40.666 [info] Resolved Python Environment /bin/python3
+2025-10-10 10:36:40.682 [info] Resolved Python Environment /bin/python3

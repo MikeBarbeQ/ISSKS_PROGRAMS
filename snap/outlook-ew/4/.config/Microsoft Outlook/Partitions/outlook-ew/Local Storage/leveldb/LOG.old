@@ -1,0 +1,15 @@
+2025/10/11-10:55:08.765 19d2 Reusing MANIFEST /home/mikel/snap/outlook-ew/4/.config/Microsoft Outlook/Partitions/outlook-ew/Local Storage/leveldb/MANIFEST-000001
+2025/10/11-10:55:08.765 19d2 Recovering log #88
+2025/10/11-10:55:08.765 19d2 Reusing old log /home/mikel/snap/outlook-ew/4/.config/Microsoft Outlook/Partitions/outlook-ew/Local Storage/leveldb/000088.log 
+2025/10/11-10:56:10.495 19d3 Level-0 table #92: started
+2025/10/11-10:56:10.505 19d3 Level-0 table #92: 141658 bytes OK
+2025/10/11-10:56:10.508 19d3 Delete type=0 #88
+2025/10/11-10:56:10.509 19d3 Compacting 4@0 + 1@1 files
+2025/10/11-10:56:10.514 19d3 Generated table #93@0: 149 keys, 163344 bytes
+2025/10/11-10:56:10.515 19d3 Compacted 4@0 + 1@1 files => 163344 bytes
+2025/10/11-10:56:10.516 19d3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/11-10:56:10.516 19d3 Delete type=2 #89
+2025/10/11-10:56:10.517 19d3 Delete type=2 #82
+2025/10/11-10:56:10.517 19d3 Delete type=2 #84
+2025/10/11-10:56:10.517 19d3 Delete type=2 #86
+2025/10/11-10:56:10.517 19d3 Delete type=2 #92

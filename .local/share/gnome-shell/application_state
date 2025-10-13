@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="outlook-ew_outlook-ew.desktop" score="189" last-seen="1760257928"/>
+    <application id="org.gnome.Evince.desktop" score="394" last-seen="1760347926"/>
+    <application id="org.gnome.seahorse.Application.desktop" score="17" last-seen="1759844600"/>
+    <application id="org.gnome.Nautilus.desktop" score="158" last-seen="1760361539"/>
+    <application id="firefox_firefox.desktop" score="6537" last-seen="1760361567"/>
+    <application id="code_code.desktop" score="84" last-seen="1760257382"/>
+    <application id="org.gnome.Terminal.desktop" score="6864" last-seen="1760361559"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1760257913"/>
+    <application id="org.gnome.TextEditor.desktop" score="172" last-seen="1760361538"/>
+    <application id="update-manager.desktop" score="0" last-seen="1760172362"/>
+  </context>
+</application-state>

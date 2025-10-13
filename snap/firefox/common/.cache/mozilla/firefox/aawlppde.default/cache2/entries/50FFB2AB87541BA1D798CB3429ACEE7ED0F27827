@@ -1,0 +1,186 @@
+{
+    "ALTERNATIVE_FORMATS": "Alternative formats",
+    "AS_PROVIDED_BY_YOUR_INSTRUCTOR": "As provided by your instructor",
+    "AUDIO": "Audio",
+    "AUTHORS": "Author(s):",
+    "AUTOMATICALLY_EXTRACTED_TEXT_FOR_IMPROVED_READING_AND_SEARCHING": "Automatically extracted text for improved reading and searching",
+    "AVAILABLE_ALTERNATIVE_FORMATS": "Available alternative formats",
+    "AVAILABLE_LANGUAGES": "Available languages:",
+    "BACK": "Back",
+    "BEELINE": "BeeLine Reader",
+    "BEELINE_ENHANCED_VERSION": "Enhanced version for easier and faster on-screen reading",
+    "BRF_VERSION_FOR_CONSUMPTION_ON_ELECTRONIC_BRAILLE_DISPLAYS": "BRF version for consumption on electronic braille displays",
+    "BY_DOWNLOADING_AN_ALTERNATIVE_FORMAT_YOU_AGREE_WITH": "By downloading an alternative format, you agree with the <button type=\"button\" class=\"ally-av-terms-of-use\">Terms of Use</button>",
+    "CANCEL": "Cancel",
+    "CHECKING_PAGE_ELLIPSIS": "Checking page...",
+    "CHOOSE_DOWNLOAD_FORMAT": "Please choose your format",
+    "CLOSE": "Close",
+    "COLLECTING_FORMATS": "Collecting alternative formats...",
+    "DATE": "Date:",
+    "DESCRIBE_YOUR_QUESTION_OR_ISSUE": "Describe your question or issue",
+    "DETAILS": "Details:",
+    "DISABLE_ALTERNATIVE_FORMATS_FOR_THIS_FILE": "Turn off alternative formats for this file",
+    "DISABLE_ALTERNATIVE_FORMATS_FOR_THIS_ITEM": "Turn off alternative formats for this item",
+    "DOWNLOAD": "Download",
+    "DOWNLOAD_ALTERNATIVE_FORMATS": "Download alternative formats",
+    "DOWNLOAD_OPTIONS": "Download options",
+    "DOWNLOAD_ORIGINAL": "Download original",
+    "DOWNLOAD_THE_AUDIO_FILE": "Download the audio file",
+    "ELECTRONIC_BRAILLE": "Electronic braille",
+    "ENABLE_FOR_THIS_FILE": "Turn on for this file",
+    "ENABLE_FOR_THIS_ITEM": "Turn on for this item",
+    "ENHANCED_VERSION": "Enhanced version",
+    "EPUB": "ePub",
+    "FILES_FOUND_IN_THIS_ITEM_COLON": "Files found in this item:",
+    "FILES_FOUND_ON_THIS_PAGE_COLON": "Files found on this page:",
+    "FOR_READING_AS_AN_E_BOOK": "For reading as an e-book on an iPad and other e-book readers",
+    "FOR_VIEWING_IN_THE_BROWSER_AND_ON_MOBILE_DEVICES": "For viewing in the browser and on mobile devices",
+    "HELP": "Help",
+    "HTML": "HTML",
+    "IMMERSIVE_READER": "Immersive Reader",
+    "IMMERSIVE_READER_VERSION": "Aid reading comprehension and grammar skills. Internet required.",
+    "LANGUAGE_AAF_DISPLAY_NAME": "{{ native }} ({{ current}})",
+    "LANGUAGE_AFRIKAANS": "Afrikaans",
+    "LANGUAGE_ALBANIAN": "Albanian",
+    "LANGUAGE_AMHARIC": "Amharic",
+    "LANGUAGE_ARABIC": "Arabic",
+    "LANGUAGE_ARMENIAN": "Armenian",
+    "LANGUAGE_AZERBAIJANI": "Azerbaijani",
+    "LANGUAGE_BENGALI": "Bengali",
+    "LANGUAGE_BOSNIAN_CYRILLIC": "Bosnian - Cyrillic",
+    "LANGUAGE_BULGARIAN": "Bulgarian",
+    "LANGUAGE_CATALAN": "Catalan",
+    "LANGUAGE_CHINESE_SIMPLIFIED": "Chinese - Simplified",
+    "LANGUAGE_CHINESE_TRADITIONAL": "Chinese - Traditional",
+    "LANGUAGE_CROATIAN": "Croatian",
+    "LANGUAGE_CZECH": "Czech",
+    "LANGUAGE_DANISH": "Danish",
+    "LANGUAGE_DARI": "Dari",
+    "LANGUAGE_DUTCH": "Dutch",
+    "LANGUAGE_ENGLISH": "English",
+    "LANGUAGE_ESTONIAN": "Estonian",
+    "LANGUAGE_FARSI": "Farsi",
+    "LANGUAGE_FINNISH": "Finnish",
+    "LANGUAGE_FRENCH": "French",
+    "LANGUAGE_FRENCH_CANADA": "French - Canadian",
+    "LANGUAGE_GEORGIAN": "Georgian",
+    "LANGUAGE_GERMAN": "German",
+    "LANGUAGE_GREEK_MODERN": "Greek - Modern",
+    "LANGUAGE_GUJARATI": "Gujarati",
+    "LANGUAGE_HAITIAN": "Haitian",
+    "LANGUAGE_HAUSA": "Hausa",
+    "LANGUAGE_HEBREW": "Hebrew",
+    "LANGUAGE_HINDI": "Hindi",
+    "LANGUAGE_HUNGARIAN": "Hungarian",
+    "LANGUAGE_ICELANDIC": "Icelandic",
+    "LANGUAGE_INDONESIAN": "Indonesian",
+    "LANGUAGE_IRISH": "Irish",
+    "LANGUAGE_ITALIAN": "Italian",
+    "LANGUAGE_JAPANESE": "Japanese",
+    "LANGUAGE_KANNADA": "Kannada",
+    "LANGUAGE_KAZAKH": "Kazakh",
+    "LANGUAGE_KOREAN": "Korean",
+    "LANGUAGE_LATVIAN": "Latvian",
+    "LANGUAGE_LITHUANIAN": "Lithuanian",
+    "LANGUAGE_MACEDONIAN": "Macedonian",
+    "LANGUAGE_MALAY": "Malay",
+    "LANGUAGE_MALAYALAM": "Malayalam",
+    "LANGUAGE_MALTESE": "Maltese",
+    "LANGUAGE_MARATHI": "Marathi",
+    "LANGUAGE_MONGOLIAN": "Mongolian",
+    "LANGUAGE_NORWEGIAN": "Norwegian BokmÃ¥l",
+    "LANGUAGE_PASHTO": "Pashto",
+    "LANGUAGE_POLISH": "Polish",
+    "LANGUAGE_PORTUGUESE": "Portuguese",
+    "LANGUAGE_PORTUGUESE_PORTUGAL": "Portuguese - Portugal",
+    "LANGUAGE_PUNJABI": "Punjabi",
+    "LANGUAGE_ROMANIAN": "Romanian",
+    "LANGUAGE_RUSSIAN": "Russian",
+    "LANGUAGE_SERBIAN_CYRILLIC": "Serbian - Cyrilic",
+    "LANGUAGE_SINHALA": "Sinhala",
+    "LANGUAGE_SLOVAK": "Slovak",
+    "LANGUAGE_SLOVENIAN": "Slovenian",
+    "LANGUAGE_SOMALI": "Somali",
+    "LANGUAGE_SPANISH": "Spanish",
+    "LANGUAGE_SPANISH_MEXICAN": "Spanish - Mexican",
+    "LANGUAGE_SWAHILI": "Swahili",
+    "LANGUAGE_SWEDISH": "Swedish",
+    "LANGUAGE_TAGALOG": "Tagalog",
+    "LANGUAGE_TAMIL": "Tamil",
+    "LANGUAGE_TELUGU": "Telugu",
+    "LANGUAGE_THAI": "Thai",
+    "LANGUAGE_TURKISH": "Turkish",
+    "LANGUAGE_UKRAINIAN": "Ukrainian",
+    "LANGUAGE_URDU": "Urdu",
+    "LANGUAGE_UZBEK": "Uzbek",
+    "LANGUAGE_VIETNAMESE": "Vietnamese",
+    "LANGUAGE_WELSH": "Welsh",
+    "LIBRARY_REFERENCE": "Library reference",
+    "LINK": "Link:",
+    "LOADING_SPINNER": "Loading",
+    "MP3_VERSION_FOR_LISTENING": "MP3 version for listening",
+    "NEW": "NEW",
+    "OCRED_PDF": "OCRed PDF",
+    "OPENS_IN_NEW_WINDOW": "Opens in new window",
+    "ORIGINAL_FILE_WITH_AUTOMATED_IMPROVEMENTS": "Original file with automated improvements",
+    "PREPARING_YOUR_DOWNLOAD_THIS_CAN_TAKE_A_FEW_MINUTES": "Preparing your download. This can take a few minutes.",
+    "PUBLISHER": "Publisher:",
+    "SELECTED_FILE_COLON": "Selected file:",
+    "SELECTED_ITEM_COLON": "Selected item:",
+    "SELECTED_PAGE_COLON": "Selected page:",
+    "SEND": "Send",
+    "STRUCTURED_PDF_FOR_IMPROVED_USE_WITH_ASSISTIVE_TECHNOLOGY": "Structured PDF for improved use with assistive technology",
+    "TAGGED_PDF": "Tagged PDF",
+    "TERMS_OF_USE": "Terms of Use",
+    "TERMS_OF_USE_LEGAL_COPY": "You can only download an alternative format if at least one of the following is true:\n\n - you own the copyright (e.g., it's your own work)\n - you have permission (e.g., a license) from the copyright holder\n - the copyright has expired\n - you have a disability that permits the creation of accessible versions of copyrighted materials under applicable copyright law such as the Chafee Amendment in the United States (17 U.S. Code Â§ 121) or the Copyright, Designs and Patents Act, 1988, Section 31A in the United Kingdom, or the Australian Government Copyright Amendment (Disability Access and Other Measures) Act 2017, and you agree to abide by all limitations of such laws.\n - any other copyright exceptions such as fair dealing or fair use apply.\n\nAlternative formats are for personal use only and you may not copy, post or share the alternative format with others. You will be fully responsible for damages arising from your failure to comply with these terms.",
+    "THE_ALTERNATIVE_FORMATS_FOR_THIS_FILE_HAVE_BEEN_DISABLED": "The alternative formats for this file have been turned off",
+    "THE_ALTERNATIVE_FORMATS_FOR_THIS_ITEM_HAVE_BEEN_DISABLED": "The alternative formats for this item have been turned off",
+    "THIS_ITEM_COLON": "This item:",
+    "THIS_PAGE_COLON": "This page:",
+    "THIS_REQUEST_WILL_BE_SENT_TO_EMAIL": "This request will be sent to {{ email }}",
+    "TITLE": "Title:",
+    "TRANSLATED_VERSION": "A machine translated version of the original document",
+    "TRANSLATION": "Translated version",
+    "WE_RE_SORRY_WE_WERE_UNABLE_TO_GENERATE_THE_ALTERNATIVE_FORMAT": "We're sorry. We were unable to generate the alternative format.",
+    "WE_RE_SORRY_WE_WERE_UNABLE_TO_GENERATE_THE_ALTERNATIVE_FORMAT_BECAUSE_OF_COPYRIGHT_RESTRICTIONS": "We're sorry. We were unable to generate the alternative format because of copyright restrictions.",
+    "WE_RE_SORRY_WE_WERE_UNABLE_TO_GENERATE_THE_ALTERNATIVE_FORMAT_BECAUSE_OF_TOO_MANY_PAGES": "We're sorry. We were unable to generate the alternative format because the original document contains too many pages.",
+    "WE_RE_SORRY_WE_WERE_UNABLE_TO_GENERATE_THE_AUDIO_FORMAT_BECAUSE_THE_ORIGINAL_FILE_IS_TOO_LARGE": "We're sorry. We were unable to generate the audio format because the original file is too large.",
+    "WE_RE_SORRY_WE_WERE_UNABLE_TO_GENERATE_THE_TRANSLATION_ALTERNATIVE_FORMAT_BECAUSE_THE_ORIGINAL_FILE_IS_TOO_LARGE": "We're sorry. We were unable to generate the translation alternative format because the original file is too large.",
+    "WE_RE_SORRY_WE_WERE_UNABLE_TO_SUBMIT_YOUR_HELP_REQUEST": "We're sorry. We were unable to submit your help request. If the problem persists, please contact support directly by sending an email to <a href=\"mailto:{{ email }}\">{{ email }}</a>.",
+    "YOUR_BROWSER_DOES_NOT_SUPPORT_THE_AUDIO_ELEMENT": "Your browser does not support the <code>audio</code> element.",
+    "YOUR_REQUEST_FOR_HELP_WAS_SUCCESSFULLY_SENT_TO_EMAIL": "Your request for help was successfully sent to {{ email }}.",
+    "YOU_DONT_HAVE_ACCESS_TO_THIS_FILE": "You don't have access to this file."
+}
+¿¿y4¡î      hÖ^¨hÖ^¨H«q¢hüvü   ˜    O^partitionKey=%28https%2Cehu.eus%29,~FETCH,:https://prod-eu-central-1.ally.ac/static/accessibleversions/locale/en.9fa4a9cc7c600a435b2e3152ef072914.json strongly-framed 1 security-info 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 request-method GET response-head HTTP/2 200 
+date: Thu, 25 Sep 2025 07:06:36 GMT
+content-type: application/json
+content-length: 9269
+server: Apache
+strict-transport-security: max-age=31536000
+last-modified: Tue, 09 Sep 2025 20:44:41 GMT
+etag: "2435-63e645f8d2040"
+accept-ranges: bytes
+cache-control: max-age=2592000
+expires: Sat, 25 Oct 2025 07:06:36 GMT
+access-control-allow-origin: *
+access-control-allow-methods: POST, GET, PUT, OPTIONS, PATCH, DELETE
+access-control-allow-headers: origin, x-requested-with, content-type, accept, accept-encoding, accept-language, authorization, host, referer, user-agent
+access-control-max-age: 86400, 86400
+X-Firefox-Spdy: h2
+ original-response-headers date: Thu, 25 Sep 2025 07:06:36 GMT
+content-type: application/json
+content-length: 9269
+server: Apache
+strict-transport-security: max-age=31536000
+access-control-max-age: 86400
+last-modified: Tue, 09 Sep 2025 20:44:41 GMT
+etag: "2435-63e645f8d2040"
+accept-ranges: bytes
+cache-control: max-age=2592000
+expires: Sat, 25 Oct 2025 07:06:36 GMT
+access-control-allow-origin: *
+access-control-allow-methods: POST, GET, PUT, OPTIONS, PATCH, DELETE
+access-control-allow-headers: origin, x-requested-with, content-type, accept, accept-encoding, accept-language, authorization, host, referer, user-agent
+access-control-max-age: 86400
+X-Firefox-Spdy: h2
+ ctid 1 net-response-time-onstart 37 net-response-time-onstop 37   $5

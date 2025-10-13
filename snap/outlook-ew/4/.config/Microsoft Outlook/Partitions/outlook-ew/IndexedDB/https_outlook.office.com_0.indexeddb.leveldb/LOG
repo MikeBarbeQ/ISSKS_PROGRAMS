@@ -1,0 +1,4 @@
+2025/10/12-10:32:05.608 1b65 Reusing MANIFEST /home/mikel/snap/outlook-ew/4/.config/Microsoft Outlook/Partitions/outlook-ew/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/12-10:32:05.609 1b65 Recovering log #110
+2025/10/12-10:32:05.609 1b65 Reusing old log /home/mikel/snap/outlook-ew/4/.config/Microsoft Outlook/Partitions/outlook-ew/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/000110.log 
+2025/10/12-10:32:05.609 1b65 Delete type=2 #109

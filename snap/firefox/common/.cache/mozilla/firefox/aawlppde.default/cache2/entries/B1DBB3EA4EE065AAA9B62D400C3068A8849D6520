@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+               "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>GnuPG - Download</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="DC.Date" content="2025-09-01" />
+<meta name="DC.Language" content="en" />
+<meta name="DC.Title" content="GnuPG - Download" />
+<meta name="DC.Description"
+ content="GnuPG is a free implementation of OpenPGP" />
+<meta name="DC.Creator" content="The People of the GnuPG Project" />
+<meta name="DC.Publisher" content="The GnuPG Project" />
+<meta name="DC.Identifier" content="https://gnupg.org/" />
+<meta name="DC.Rights" content="https://gnupg.org/copying.html" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" href="/share/site.css" type="text/css" />
+<link rel="me" href="https://mstdn.social/@GnuPG" />
+</head>
+<body>
+<div id="wrapper">
+<div id="header"><a href="/index.html" class="logo"
+     ><img src="/share/logo-gnupg-light-purple-bg.png"></a>&nbsp;</div>
+<nav>
+  <ul>
+    <li><span class="topmenuitem">Home</span>
+    <ul class="sub-menu">
+      <li><a href="/index.html">Home</a>
+      </li>
+      <li><a href="/news.html">News</a>
+      </li>
+      <li><a href="/people/index.html">People</a>
+      </li>
+      <li><a href="/verein/index.html">Verein</a>
+      </li>
+      <li><a href="/documentation/sites.html">Sites</a>
+      </li>
+    </ul>
+    </li>
+    <li><span class="topmenuitem">Donate</span>
+    <ul class="sub-menu">
+      <li><a href="/donate/index.html">Donate</a>
+      </li>
+      <li><a href="https://gnupg.myspreadshop.de">Merchandise</a>
+      </li>
+      <li><a href="/donate/kudos.html">List of Donors</a>
+      </li>
+    </ul>
+    </li>
+    <li><span class="topmenuitem">Software</span>
+    <ul class="sub-menu">
+      <li><a href="/software/index.html">GnuPG</a>
+      </li>
+      <li><a href="/software/frontends.html">Frontends</a>
+      </li>
+      <li><a href="/software/tools.html">Tools</a>
+      </li>
+      <li><a href="/software/libraries.html">Libraries</a>
+      </li>
+      <li><a href="/software/swlist.html">All</a>
+      </li>
+    </ul>
+    </li>
+    <li><span class="topmenuitem">Download</span>
+    <ul class="sub-menu">
+      <li><a href="/download/index.html">Download</a>
+      </li>
+      <li><a href="https://repos.gnupg.org/deb/gnupg">Debian&nbsp;Packages</a>
+      </li>
+      <li><a href="/download/integrity_check.html">Integrity&nbsp;Check</a>
+      </li>
+      <li><a href="/signature_key.html">Release&nbsp;Keys</a>
+      </li>
+      <li><a href="/download/supported_systems.html">Supported&nbsp;Systems</a>
+      </li>
+      <li><a href="/download/release_notes.html">Release&nbsp;Notes</a>
+      </li>
+      <li><a href="/download/mirrors.html">Mirrors</a>
+      </li>
+      <li><a href="/download/git.html">GIT</a>
+      </li>
+    </ul>
+    </li>
+    <li><span class="topmenuitem">Documentation</span>
+    <ul class="sub-menu">
+      <li><a href="/documentation/index.html">Overview</a>
+      </li>
+      <li><a href="/documentation/manuals.html">Manuals</a>
+      </li>
+      <li><a href="/documentation/guides.html">Guides</a>
+      </li>
+      <li><a href="/documentation/howtos.html">HOWTOs</a>
+      </li>
+      <li><a href="/documentation/faqs.html">FAQs</a>
+      </li>
+      <li><a href="/documentation/mailing-lists.html">Mailing&nbsp;Lists</a>
+      </li>
+      <li><a href="/service.html">3rd Party Support</a>
+      </li>
+      <li><a href="/documentation/bts.html">Bug&nbsp;Tracker</a>
+      </li>
+      <li><a href="/documentation/security.html">Security</a>
+      </li>
+    </ul>
+    </li>
+    <li><a href="/blog/index.html">Blog</a>
+    </li>
+  </ul>
+</nav>
+<main>
+<div id="content">
+
+
+<h2 id="sec-1">Download</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+Note that you may also download the GNU Privacy Guard from a mirror
+site close to you.  See our <a href="mirrors.html">list of mirrors</a>.  The table below
+provides links to the location of the files on the primary server
+only.
+</p>
+</div>
+
+
+<h3 id="sec-1-1">Source code releases</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+These are the canonical release forms of GnuPG.  To use them you
+need to build the binary version from the provided source code.
+For Unix systems this is the standard way of installing software.
+For GNU/Linux distributions are commonly used (e.g. Debian, Fedora,
+RedHat, or Ubuntu) which may already come with a directly
+installable packages.  However, these version may be older so that
+building from the source is often also a good choice.  Some
+knowledge on how to compile and install software is required.
+</p>
+
+<p>
+The table lists the different GnuPG packages, followed by required
+libraries, required tools, optional software, and legacy versions
+of GnuPG.  For end-of-life dates see further down.
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="left" />
+
+<col  class="left" />
+
+<col  class="right" />
+
+<col  class="right" />
+
+<col  class="left" />
+
+<col  class="left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="left">Name</th>
+<th scope="col" class="left">Version</th>
+<th scope="col" class="right">Date</th>
+<th scope="col" class="right">Size</th>
+<th scope="col" class="left">Tarball</th>
+<th scope="col" class="left">Signature</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="left"><a href="../software/index.html">GnuPG</a></td>
+<td class="left">2.4.8</td>
+<td class="right">2025-05-14</td>
+<td class="right">7829k</td>
+<td class="left"><a href="/ftp/gcrypt/gnupg/gnupg-2.4.8.tar.bz2">download</a></td>
+<td class="left"><a href="/ftp/gcrypt/gnupg/gnupg-2.4.8.tar.bz2.sig">download</a></td>
+</tr>
+
+<tr>
+<td class="left"><a href="../software/index.html">GnuPG (devel)</a></td>
+<td class="left">2.5.12</td>
+<td class="right">2025-09-02</td>
+<td class="right">8032k</td>
+<td class="left"><a href="/ftp/gcrypt/gnupg/gnupg-2.5.12.tar.bz2">download</a></td>
+<td class="left"><a href="/ftp/gcrypt/gnupg/gnupg-2.5.12.tar.bz2.sig">download</a></td>
+</tr>
+
+<tr>
+<td class="left"><a href="../software/index.html">GnuPG (devel with libs)</a></td>
+<td class="left">2.5.12</td>
+<td class="right">2025-09-02</td>
+<td class="right">14706k</td>
+<td class="left"><a href="/ftp/gcrypt/gnupg/gnupg-w32-2.5.12_20250902.tar.xz">download</a></td>
+<td class="left"><a href="/ftp/gcrypt/gnupg/gnupg-w32-2.5.12_20250902.tar.xz.sig">download</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="left"><a href="../software/libgpg-error/index.html">Libgpg-error</a></td>
+<td class="left">1.55</td>
+<td class="right">2025-04-24</td>
+<td class="right">1083k</td>
+<td class="left"><a href="/ftp/gcrypt/libgpg-error/libgpg-error-1.55.tar.bz2">download</a></td>
+<td class="left"><a href="/ftp/gcrypt/libgpg-error/libgpg-error-1.55.tar.bz2.sig">download</a></td>
+</tr>
+
+<tr>
+<td class="left"><a href="../software/libgcrypt/index.html">Libgcrypt</a></td>
+<td class="left">1.11.2</td>
+<td class="right">2025-08-04</td>
+<td class="right">4138k</td>
+<td class="left"><a href="/ftp/gcrypt/libgcrypt/libgcrypt-1.11.2.tar.bz2">download</a></td>
+<td class="left"><a href="/ftp/gcrypt/libgcrypt/libgcrypt-1.11.2.tar.bz2.sig">download</a></td>
+</tr>
+
+<tr>
+<td class="left"><a href="../software/libksba/index.html">Libksba</a></td>
+<td class="left">1.6.7</td>
+<td class="right">2024-06-21</td>
+<td class="right">689k</td>
+<td class="left"><a href="/ftp/gcrypt/libksba/libksba-1.6.7.tar.bz2">download</a></td>
+<td class="left"><a href="/ftp/gcrypt/libksba/libksba-1.6.7.tar.bz2.sig">download</a></td>
+</tr>
+
+<tr>
+<td class="left"><a href="../software/libassuan/index.html">Libassuan</a></td>
+<td class="left">3.0.2</td>
+<td class="right">2025-02-18</td>
+<td class="right">579k</td>
+<td class="left"><a href="/ftp/gcrypt/libassuan/libassuan-3.0.2.tar.bz2">download</a></td>
+<td class="left"><a href="/ftp/gcrypt/libassuan/libassuan-3.0.2.tar.bz2.sig">download</a></td>
+</tr>
+
+<tr>
+<td class="left"><a href="../software/ntbtls/index.html">ntbTLS</a></td>
+<td class="left">0.3.2</td>
+<td class="right">2024-01-12</td>
+<td class="right">365k</td>
+<td class="left"><a href="/ftp/gcrypt/ntbtls/ntbtls-0.3.2.tar.bz2">download</a></td>
+<td class="left"><a href="/ftp/gcrypt/ntbtls/ntbtls-0.3.2.tar.bz2.sig">download</a></td>
+</tr>
+
+<tr>
+<td class="left"><a href="../software/npth/index.html">nPth</a></td>
+<td class="left">1.8</td>
+<td class="right">2024-11-12</td>
+<td class="right">310k</td>
+<td class="left"><a href="/ftp/gcrypt/npth/npth-1.8.tar.bz2">download</a></td>
+<td class="left"><a href="/ftp/gcrypt/npth/npth-1.8.tar.bz2.sig">download</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="left">Pinentry</td>
+<td class="left">1.3.2</td>
+<td class="right">2025-07-28</td>
+<td class="right">598k</td>
+<td class="left"><a href="/ftp/gcrypt/pinentry/pinentry-1.3.2.tar.bz2">download</a></td>
+<td class="left"><a href="/ftp/gcrypt/pinentry/pinentry-1.3.2.tar.bz2.sig">download</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="left"><a href="../software/gpgme/index.html">GPGME</a></td>
+<td class="left">2.0.1</td>
+<td class="right">2025-09-23</td>
+<td class="right">1359k</td>
+<td class="left"><a href="/ftp/gcrypt/gpgme/gpgme-2.0.1.tar.bz2">download</a></td>
+<td class="left"><a href="/ftp/gcrypt/gpgme/gpgme-2.0.1.tar.bz2.sig">download</a></td>
+</tr>
+
+<tr>
+<td class="left"><a href="../software/gpgme/index.html">GPGME++</a></td>
+<td class="left">2.0.0</td>
+<td class="right">2025-06-03</td>
+<td class="right">115k</td>
+<td class="left"><a href="/ftp/gcrypt/gpgmepp/gpgmepp-2.0.0.tar.xz">download</a></td>
+<td class="left"><a href="/ftp/gcrypt/gpgmepp/gpgmepp-2.0.0.tar.xz.sig">download</a></td>
+</tr>
+
+<tr>
+<td class="left"><a href="../software/gpgme/index.html">QGpgME</a></td>
+<td class="left">2.0.0</td>
+<td class="right">2025-06-03</td>
+<td class="right">184k</td>
+<td class="left"><a href="/ftp/gcrypt/qgpgme/qgpgme-2.0.0.tar.xz">download</a></td>
+<td class="left"><a href="/ftp/gcrypt/qgpgme/qgpgme-2.0.0.tar.xz.sig">download</a></td>
+</tr>
+
+<tr>
+<td class="left"><a href="../software/scute/index.html">Scute</a></td>
+<td class="left">1.7.0</td>
+<td class="right">2021-01-07</td>
+<td class="right">831k</td>
+<td class="left"><a href="/ftp/gcrypt/scute/scute-1.7.0.tar.bz2">download</a></td>
+<td class="left"><a href="/ftp/gcrypt/scute/scute-1.7.0.tar.bz2.sig">download</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="left"><a href="../software/gpa/index.html">GPA</a></td>
+<td class="left">0.11.0</td>
+<td class="right">2024-12-10</td>
+<td class="right">807k</td>
+<td class="left"><a href="/ftp/gcrypt/gpa/gpa-0.11.0.tar.bz2">download</a></td>
+<td class="left"><a href="/ftp/gcrypt/gpa/gpa-0.11.0.tar.bz2.sig">download</a></td>
+</tr>
+
+<tr>
+<td class="left"><a href="../software/gpgme/index.html">GPGME (legacy)</a></td>
+<td class="left">1.24.3</td>
+<td class="right">2025-05-19</td>
+<td class="right">1848k</td>
+<td class="left"><a href="/ftp/gcrypt/gpgme/gpgme-1.24.3.tar.bz2">download</a></td>
+<td class="left"><a href="/ftp/gcrypt/gpgme/gpgme-1.24.3.tar.bz2.sig">download</a></td>
+</tr>
+
+<tr>
+<td class="left">GnuPG 1.4</td>
+<td class="left">1.4.23</td>
+<td class="right">2018-06-11</td>
+<td class="right">3661k</td>
+<td class="left"><a href="/ftp/gcrypt/gnupg/gnupg-1.4.23.tar.bz2">download</a></td>
+<td class="left"><a href="/ftp/gcrypt/gnupg/gnupg-1.4.23.tar.bz2.sig">download</a></td>
+</tr>
+</tbody>
+</table>
+
+<p>
+GnuPG distributions are signed. It is wise and more secure to check out for their <i><a href="integrity_check.html">integrity</a></i>.
+</p>
+
+<p>
+Remarks:
+</p>
+
+<ul>
+<li><i>Pinentry</i> is a collection of passphrase entry dialogs which is
+required for almost all usages of GnuPG.
+</li>
+
+<li><i>GPGME</i> is the standard library to access GnuPG functions from
+programming languages.
+</li>
+
+<li><i>Scute</i> is a PKCS#11 provider on top of GnuPG.
+</li>
+
+<li><i>GPA</i> is a graphical frontend to GnuPG.
+</li>
+
+<li><i>GnuPG 1.4</i> is the old, single binary version which still supports
+the unsafe PGP-2 keys.  This branch has no dependencies on the
+above listed libraries or the Pinentry.  However, it lacks many
+modern features and will receive only important security updates.
+</li>
+</ul>
+</div>
+
+
+<h3 id="binary"><a id="sec-1-2"></a>GnuPG binary releases</h3>
+<div class="outline-text-3" id="text-binary">
+<p>
+In general we do not distribute binary releases but leave that to
+the common Linux distributions.  However, for some operating
+systems we list pointers to readily installable releases.  We
+cannot guarantee that the versions offered there are current.  Note
+also that some of them apply security patches on top of the
+standard versions but keep the original version number.
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="left" />
+
+<col  class="left" />
+
+<col  class="left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="left">OS</th>
+<th scope="col" class="left">Where</th>
+<th scope="col" class="left">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="left">Windows</td>
+<td class="left"><a href="https://gpg4win.org/download.html">Gpg4win</a></td>
+<td class="left">Full featured Windows version of <i>GnuPG</i></td>
+</tr>
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left"><a href="/ftp/gcrypt/binary/gnupg-w32-2.4.8_20250514.exe">download</a> <a href="/ftp/gcrypt/binary/gnupg-w32-2.4.8_20250514.exe.sig">sig</a></td>
+<td class="left">Simple installer for the current <i>GnuPG</i></td>
+</tr>
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left"><a href="/ftp/gcrypt/binary/gnupg-w32cli-1.4.23.exe">download</a> <a href="/ftp/gcrypt/binary/gnupg-w32cli-1.4.23.exe.sig">sig</a></td>
+<td class="left">Simple installer for <i>GnuPG 1.4</i></td>
+</tr>
+
+<tr>
+<td class="left">OS X</td>
+<td class="left"><a href="https://gpgtools.org">Mac GPG</a></td>
+<td class="left">Installer from the gpgtools project</td>
+</tr>
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left"><a href="https://sourceforge.net/p/gpgosx/docu/Download/">GnuPG for OS X</a></td>
+<td class="left">Installer for <i>GnuPG</i></td>
+</tr>
+
+<tr>
+<td class="left">Debian</td>
+<td class="left"><a href="https://repos.gnupg.org/deb/gnupg/">Debian packages</a></td>
+<td class="left">Package repos for Debian based distributions</td>
+</tr>
+
+<tr>
+<td class="left">RPM</td>
+<td class="left"><a href="http://rpmfind.net/">rpmfind</a></td>
+<td class="left">RPM packages for different OS</td>
+</tr>
+
+<tr>
+<td class="left">Android</td>
+<td class="left"><a href="https://guardianproject.info/code/gnupg/">Guardian project</a></td>
+<td class="left">Provides a GnuPG framework</td>
+</tr>
+
+<tr>
+<td class="left">VMS</td>
+<td class="left"><a href="http://www.antinode.info/dec/sw/gnupg.html">antinode.info</a></td>
+<td class="left">A port of GnuPG 1.4 to OpenVMS</td>
+</tr>
+
+<tr>
+<td class="left">RISC OS</td>
+<td class="left"><a href="http://www.sbellon.de/gnupg.html">home page</a></td>
+<td class="left">A port of GnuPG to RISC OS</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+<h3 id="end-of-life"><a id="sec-1-3"></a>End-of-life announcements</h3>
+<div class="outline-text-3" id="text-end-of-life">
+<p>
+We announce the end-of-life date for a current stable version at
+the time a new stable version is released.  We maintain old
+branches for at least two years.  For branches with an even minor
+version number we consider the preceding odd version as the birth of
+the branch.  For most other packages we don't maintain branches and
+thus there is no end-of-life; always use the latest version.
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="left" />
+
+<col  class="left" />
+
+<col  class="left" />
+
+<col  class="left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="left">Package</th>
+<th scope="col" class="left">Ver.</th>
+<th scope="col" class="left">End-of-life</th>
+<th scope="col" class="left">Birth</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="left">GnuPG</td>
+<td class="left"><del>1.0</del></td>
+<td class="left">2002-09-07</td>
+<td class="left">1999-09-07</td>
+</tr>
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left"><del>1.2</del></td>
+<td class="left">2005-01-01</td>
+<td class="left">2002-09-21</td>
+</tr>
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">1.4</td>
+<td class="left">none&sup2;</td>
+<td class="left">2004-12-16</td>
+</tr>
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left"><del>2.0</del></td>
+<td class="left">2017-12-31</td>
+<td class="left">2006-11-11</td>
+</tr>
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left"><del>2.2</del></td>
+<td class="left">2024-12-31&sup3;</td>
+<td class="left">2014-11-06</td>
+</tr>
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">2.4</td>
+<td class="left">2026-06-30</td>
+<td class="left">2021-04-07</td>
+</tr>
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">2.6</td>
+<td class="left">tba&sup1;</td>
+<td class="left">2024-07-05</td>
+</tr>
+
+<tr>
+<td class="left">Libgcrypt</td>
+<td class="left"><del>1.5</del></td>
+<td class="left">2016-12-31</td>
+<td class="left">2011-06-29</td>
+</tr>
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left"><del>1.6</del></td>
+<td class="left">2017-06-30</td>
+<td class="left">2013-12-16</td>
+</tr>
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left"><del>1.7</del></td>
+<td class="left">2019-06-30</td>
+<td class="left">2016-04-15</td>
+</tr>
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left"><del>1.8</del></td>
+<td class="left">2024-12-31&sup3;</td>
+<td class="left">2017-07-18</td>
+</tr>
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left"><del>1.9</del></td>
+<td class="left">2024-03-31</td>
+<td class="left">2021-01-19</td>
+</tr>
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">1.10</td>
+<td class="left">2026-06-30</td>
+<td class="left">2022-02-01</td>
+</tr>
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">1.11</td>
+<td class="left">tba</td>
+<td class="left">2022-06-19</td>
+</tr>
+</tbody>
+</table>
+
+<ul>
+<li><i>(1)</i>: Long Term Support.
+</li>
+<li><i>(2)</i>: Legacy version; see remarks above.
+</li>
+<li><i>(3)</i>: Extended Long Term Support contract available.
+</li>
+<li><i>tba</i>: To be announced.
+</li>
+</ul>
+</div>
+</div><!-- end content -->
+</main>
+<div id="footer">
+  <div id="nav_bottom">
+  <ul>
+    <li><a href="/privacy-policy.html">Privacy&nbsp;Policy</a>
+    </li>
+    <li><a href="/imprint.html">Imprint</a>
+    </li>
+    <li><a href="/misc/index.html">Archive</a>
+    </li>
+    <li><a href="/sitemap.html">Sitemap</a>
+    </li>
+    <li><a href="/blog/index.html">Blog</a>
+    </li>
+    <li><a href="/ftp/index.html">Files</a>
+    </li>
+    </ul>
+  </div>
+  <div class="footerbox">
+  <a><img src="/share/traueranzeige-g10_v2015.png"
+          width="200px" height="73px"
+          alt="Traueranzeige: Wir nehmen Abschied von einem sicher geglaubten Freund, dem | Fernmeldegeheimniss | (Artikel 10 Grundgesetz) | * 23. Mai 1949, + 18. Dezember 2015"
+          title="Article 10 of the German constitution (communication privacy) is not anymore with us." /></a>
+  <p></p>
+  </div>
+  <div id="cpyright">
+    <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"
+      ><img alt="CC BY-SA 3.0" style="border: 0"
+            src="/share/cc-by-sa_80x15.png"/></a>&nbsp;
+    These web pages are
+    Copyright 1998--2020 The GnuPG Project and licensed under a
+    <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"
+    >Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.  See
+    <a href="/copying.html">copying</a> for details.
+    Page <a href="https://git.gnupg.org/cgi-bin/gitweb.cgi?p=gnupg-doc.git;a=blob;f=web/download/index.org">source</a> last changed on 2025-09-01.
+  </div>
+</div>
+</div><!-- end wrapper -->
+</body>
+</html>
+û<Wâ–Ï      hÙA~hÙA~H¬ðØhÙ¦Î   C    O^partitionKey=%28https%2Cgnupg.org%29,:https://gnupg.org/download/ necko:classified 1 peer-ip-address 217.69.76.60 peer-port 443 strongly-framed 1 security-info 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 request-method GET response-head HTTP/1.1 200 OK
+Date: Sun, 28 Sep 2025 14:08:57 GMT
+Strict-Transport-Security: max-age=31536000
+Accept-Ranges: bytes
+Content-Length: 19828
+Last-Modified: Thu, 25 Sep 2025 14:05:22 GMT
+Content-Type: text/html
+ original-response-headers Date: Sun, 28 Sep 2025 14:08:57 GMT
+Strict-Transport-Security: max-age=31536000
+Accept-Ranges: bytes
+Connection: Keep-Alive
+Keep-Alive: timeout=10, max=1000
+Content-Length: 19828
+Last-Modified: Thu, 25 Sep 2025 14:05:22 GMT
+Content-Type: text/html
+ ctid 1 uncompressed-len 0 net-response-time-onstart 137 net-response-time-onstop 192   Mt

@@ -1,0 +1,8 @@
+[user]
+	signingkey = 7B8D2F797BD4214A
+	email = meguiabengoa@gmail.com
+	name = MikeBarbeQ
+[commit]
+	gpgsign = true
+[gpg]
+	program = /usr/bin/gpg

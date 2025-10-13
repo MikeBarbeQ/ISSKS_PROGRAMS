@@ -1,0 +1,24 @@
+2025/10/12-10:31:41.821 1b65 Reusing MANIFEST /home/mikel/snap/outlook-ew/4/.config/Microsoft Outlook/Partitions/outlook-ew/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/12-10:31:41.822 1b65 Recovering log #103
+2025/10/12-10:31:41.822 1b65 Reusing old log /home/mikel/snap/outlook-ew/4/.config/Microsoft Outlook/Partitions/outlook-ew/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/000103.log 
+2025/10/12-10:31:41.830 1b76 Level-0 table #108: started
+2025/10/12-10:31:41.831 1b76 Level-0 table #108: 1228 bytes OK
+2025/10/12-10:31:41.832 1b76 Delete type=0 #103
+2025/10/12-10:31:41.833 1b78 Manual compaction at level-0 from '\x00 \x00\x00\x00' @ 72057594037927935 : 1 .. '\x00!\x00\x00\x00' @ 0 : 0; will stop at '\x00 \x00\x00\x05' @ 827 : 1
+2025/10/12-10:31:41.833 1b78 Compacting 1@0 + 1@1 files
+2025/10/12-10:31:41.834 1b78 Generated table #109@0: 70 keys, 1772 bytes
+2025/10/12-10:31:41.835 1b78 Compacted 1@0 + 1@1 files => 1772 bytes
+2025/10/12-10:31:41.836 1b78 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/12-10:31:41.837 1b78 Delete type=2 #108
+2025/10/12-10:31:41.837 1b76 Manual compaction at level-0 from '\x00 \x00\x00\x05' @ 827 : 1 .. '\x00!\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/10/12-10:31:43.074 1b65 Level-0 table #111: started
+2025/10/12-10:31:43.075 1b65 Level-0 table #111: 535 bytes OK
+2025/10/12-10:31:43.076 1b65 Delete type=2 #105
+2025/10/12-10:31:43.076 1b65 Delete type=0 #107
+2025/10/12-10:31:43.077 1b65 Manual compaction at level-0 from '\x00!\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00"\x00\x00\x00' @ 0 : 0; will stop at '\x00!\x00\x00\x05' @ 845 : 1
+2025/10/12-10:31:43.077 1b65 Compacting 1@0 + 1@1 files
+2025/10/12-10:31:43.078 1b65 Generated table #112@0: 70 keys, 1759 bytes
+2025/10/12-10:31:43.078 1b65 Compacted 1@0 + 1@1 files => 1759 bytes
+2025/10/12-10:31:43.079 1b65 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/12-10:31:43.079 1b65 Delete type=2 #111
+2025/10/12-10:31:43.080 1b65 Manual compaction at level-0 from '\x00!\x00\x00\x05' @ 845 : 1 .. '\x00"\x00\x00\x00' @ 0 : 0; will stop at (end)

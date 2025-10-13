@@ -1,0 +1,4 @@
+2025-10-04 16:19:41.191 [info] Native locator: Refresh started
+2025-10-04 16:19:41.531 [info] Active interpreter [global]:  /bin/python3
+2025-10-04 16:19:41.532 [info] Native locator: Refresh finished in 343 ms
+2025-10-04 16:19:43.186 [info] Starting Pylance language server.

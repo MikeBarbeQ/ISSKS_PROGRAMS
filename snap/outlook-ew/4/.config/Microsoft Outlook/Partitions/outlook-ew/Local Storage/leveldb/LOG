@@ -1,0 +1,6 @@
+2025/10/12-10:31:37.825 1b65 Reusing MANIFEST /home/mikel/snap/outlook-ew/4/.config/Microsoft Outlook/Partitions/outlook-ew/Local Storage/leveldb/MANIFEST-000001
+2025/10/12-10:31:37.825 1b65 Recovering log #91
+2025/10/12-10:31:37.825 1b65 Reusing old log /home/mikel/snap/outlook-ew/4/.config/Microsoft Outlook/Partitions/outlook-ew/Local Storage/leveldb/000091.log 
+2025/10/12-10:32:39.555 1b65 Level-0 table #96: started
+2025/10/12-10:32:39.564 1b65 Level-0 table #96: 123033 bytes OK
+2025/10/12-10:32:39.567 1b65 Delete type=0 #91

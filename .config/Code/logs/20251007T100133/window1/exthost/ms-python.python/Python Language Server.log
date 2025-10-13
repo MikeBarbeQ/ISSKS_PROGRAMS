@@ -1,0 +1,17 @@
+2025-10-07 10:01:40.574 [info] (Client) Pylance client (2025.8.3) started with python extension (2025.14.0)
+2025-10-07 10:01:42.346 [info] (6169) Server root directory: file:///home/mikel/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist
+2025-10-07 10:01:42.347 [info] (6169) Pylance language server 2025.8.3 (pyright version 1.1.405, commit d64f3fa0) starting
+2025-10-07 10:01:42.400 [info] (6169) Starting service instance "<default>" for workspace ""
+2025-10-07 10:01:42.463 [info] (6169) Starting Mcp server id:3826 ...
+2025-10-07 10:01:42.578 [info] (6169) Setting environmentName for service "<default>": "Python 3.12.3"
+2025-10-07 10:01:42.580 [info] (6169) Setting pythonPath for service "<default>": "/bin/python3"
+2025-10-07 10:01:42.580 [info] (6169) No include entries specified; assuming /<default workspace root>
+2025-10-07 10:01:42.580 [info] (6169) Auto-excluding **/node_modules
+2025-10-07 10:01:42.581 [info] (6169) Auto-excluding **/__pycache__
+2025-10-07 10:01:42.581 [info] (6169) Auto-excluding **/.*
+2025-10-07 10:01:42.614 [info] (6169) Assuming Python version 3.12.3.final.0
+2025-10-07 10:01:42.826 [info] (6169) Settings have not changed. Skipping update.
+2025-10-07 10:01:43.285 [error] (6169) File or directory "/<default workspace root>" does not exist.
+2025-10-07 10:01:43.285 [info] (6169) No source files found.
+2025-10-07 10:01:43.615 [info] (6169) BG: Priority queue background worker(2) root directory: file:///home/mikel/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist
+2025-10-07 10:01:43.618 [info] (6169) BG: Priority queue background worker(2) started

@@ -1,0 +1,32 @@
+2025-10-02 12:27:09.597 [info] Extension host with pid 16296 started
+2025-10-02 12:27:09.732 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-02 12:27:09.752 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-02 12:27:09.766 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-10-02 12:27:09.908 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-10-02 12:27:10.248 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-10-02 12:27:10.362 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-10-02 12:27:10.660 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-02 12:27:10.671 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-02 12:27:10.713 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-02 12:27:10.779 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-10-02 12:27:10.920 [info] Eager extensions activated
+2025-10-02 12:27:10.939 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-02 12:27:10.940 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-02 12:27:11.804 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-02 12:27:11.890 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-02 12:27:11.898 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-02 12:27:29.656 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2025-10-02 12:43:45.416 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-02 12:43:45.436 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.K [as deactivate] (/home/mikel/.vscode/extensions/ms-python.vscode-python-envs-1.2.0-linux-x64/dist/extension.js:2:618887)
+	at LZ.eb (file:///snap/code/205/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:11836)
+	at file:///snap/code/205/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9986
+	at Array.map (<anonymous>)
+	at LZ.$ (file:///snap/code/205/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9974)
+	at LZ.terminate (file:///snap/code/205/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10217)
+	at E3.terminate (file:///snap/code/205/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:914)
+	at ws (file:///snap/code/205/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:388:10154)
+	at MessagePortMain.<anonymous> (file:///snap/code/205/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:388:6693)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-10-02 12:43:45.436 [info] Extension host with pid 16296 exiting with code 0

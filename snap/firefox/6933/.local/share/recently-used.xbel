@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/mikel/Descargas/L0-Docker-tutorial.pdf" added="2025-09-11T07:52:14.917478Z" modified="2025-09-11T07:52:14.917486Z" visited="2025-09-11T07:52:14.917479Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-09-11T07:52:14.917482Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Descargas/msg" added="2025-09-12T09:42:28.718539Z" modified="2025-09-12T09:42:28.718568Z" visited="2025-09-12T09:42:28.718540Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-09-12T09:42:28.718547Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Descargas/Dockerfile" added="2025-09-12T09:42:32.662690Z" modified="2025-09-12T09:42:32.662717Z" visited="2025-09-12T09:42:32.662694Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-09-12T09:42:32.662702Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Descargas/L3-Urruneko-Zerbitzaria.pdf" added="2025-09-18T07:54:18.806662Z" modified="2025-09-18T07:54:18.806672Z" visited="2025-09-18T07:54:18.806663Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-09-18T07:54:18.806667Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Descargas/irakaslearen_gako_publikoa" added="2025-09-18T08:06:16.592395Z" modified="2025-09-18T08:06:16.592412Z" visited="2025-09-18T08:06:16.592397Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-09-18T08:06:16.592403Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Descargas/ehu-ca.crt" added="2025-09-19T09:15:25.921587Z" modified="2025-09-19T09:15:25.921603Z" visited="2025-09-19T09:15:25.921590Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-x509-ca-cert"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-09-19T09:15:25.921595Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Descargas/Zifraketa-I.pdf" added="2025-09-22T09:35:02.443388Z" modified="2025-09-22T09:35:02.443398Z" visited="2025-09-22T09:35:02.443390Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-09-22T09:35:02.443394Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Descargas/Fecuencias.png" added="2025-09-22T09:35:40.913751Z" modified="2025-09-22T09:35:40.913760Z" visited="2025-09-22T09:35:40.913752Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-09-22T09:35:40.913755Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Descargas/imagen.zip" added="2025-09-22T10:19:34.102106Z" modified="2025-09-22T10:19:34.102127Z" visited="2025-09-22T10:19:34.102111Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-09-22T10:19:34.102117Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Descargas/imagen(1).zip" added="2025-09-22T10:32:27.722787Z" modified="2025-09-22T10:32:27.722820Z" visited="2025-09-22T10:32:27.722790Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-09-22T10:32:27.722797Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Descargas/imagen(2).zip" added="2025-09-22T13:34:26.459550Z" modified="2025-09-22T13:34:26.459563Z" visited="2025-09-22T13:34:26.459551Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-09-22T13:34:26.459555Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Descargas/imagen(3).zip" added="2025-09-22T13:34:59.586826Z" modified="2025-09-22T13:34:59.586968Z" visited="2025-09-22T13:34:59.586832Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-09-22T13:34:59.586922Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Descargas/Zifraketa-II.pdf" added="2025-09-25T07:06:44.687824Z" modified="2025-09-25T07:06:44.687882Z" visited="2025-09-25T07:06:44.687827Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-09-25T07:06:44.687845Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Descargas/2E2B4744ABA61BF2E6BB980D13A52957DA237BFE.asc" added="2025-09-25T08:48:28.554638Z" modified="2025-09-25T08:48:28.554655Z" visited="2025-09-25T08:48:28.554642Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-09-25T08:48:28.554647Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Descargas/2E2B4744ABA61BF2E6BB980D13A52957DA237BFE(1).asc" added="2025-09-25T08:49:53.723102Z" modified="2025-09-25T08:49:53.723120Z" visited="2025-09-25T08:49:53.723104Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-09-25T08:49:53.723111Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Documentos/Zifraketa-II.pdf" added="2025-09-26T09:37:16.795573Z" modified="2025-09-26T09:37:16.795581Z" visited="2025-09-26T09:37:16.795575Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-09-26T09:37:16.795577Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Descargas/7C1E334374BCAA768A10E189E6A8110D3F6F184A.asc" added="2025-09-30T12:05:49.428027Z" modified="2025-09-30T12:05:49.428039Z" visited="2025-09-30T12:05:49.428028Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-09-30T12:05:49.428032Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Documentos/ISSKS/Laborategiak/4.Laborategia/L4-Zertifikatuak_Enuntziatua.pdf" added="2025-10-02T08:18:02.189304Z" modified="2025-10-02T08:18:02.189325Z" visited="2025-10-02T08:18:02.189306Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-10-02T08:18:02.189311Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Descargas/Zifraketa-I-1.pdf" added="2025-10-02T09:57:17.603175Z" modified="2025-10-02T09:57:17.603185Z" visited="2025-10-02T09:57:17.603176Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-10-02T09:57:17.603180Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Descargas/imagen(4).zip" added="2025-10-02T10:17:05.117273Z" modified="2025-10-02T10:17:05.117277Z" visited="2025-10-02T10:17:05.117274Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-10-02T10:17:05.117275Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Descargas/labo4.crt" added="2025-10-03T12:24:17.539466Z" modified="2025-10-03T12:24:17.539474Z" visited="2025-10-03T12:24:17.539467Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-x509-ca-cert"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-10-03T12:24:17.539470Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Descargas/2B36197FC78072FDDB65E4A6474F1AA1898F1C9B.asc" added="2025-10-05T14:14:59.370939Z" modified="2025-10-05T14:14:59.370945Z" visited="2025-10-05T14:14:59.370940Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-10-05T14:14:59.370942Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Descargas/labo4(1).crt" added="2025-10-05T15:38:58.466698Z" modified="2025-10-05T15:38:58.466709Z" visited="2025-10-05T15:38:58.466699Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-x509-ca-cert"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-10-05T15:38:58.466704Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Descargas/labo4(2).crt" added="2025-10-05T16:29:00.043830Z" modified="2025-10-05T16:29:00.043850Z" visited="2025-10-05T16:29:00.043832Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-x509-ca-cert"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-10-05T16:29:00.043839Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

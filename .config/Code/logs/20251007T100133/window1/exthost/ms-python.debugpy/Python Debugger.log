@@ -1,0 +1,21 @@
+2025-10-07 10:01:40.069 [error] No workspace folder found
+2025-10-07 10:02:01.950 [info] No workspace folder found
+2025-10-07 10:02:02.005 [info] Resolving launch configuration with substituted variables
+2025-10-07 10:02:02.005 [info] No workspace folder found
+2025-10-07 10:02:02.073 [info] DAP Server launched with command: /bin/python3 /home/mikel/.vscode/extensions/ms-python.debugpy-2025.10.0-linux-x64/bundled/libs/debugpy/adapter
+2025-10-07 10:02:02.289 [info] Received 'debugpySockets' event from debugpy.
+2025-10-07 10:02:02.295 [info] Received 'debugpySockets' event from debugpy.
+2025-10-07 10:02:02.296 [info] Received 'debugpySockets' event from debugpy.
+2025-10-07 10:02:03.193 [info] Received 'debugpySockets' event from debugpy.
+2025-10-07 10:02:04.185 [info] Received 'debugpySockets' event from debugpy.
+2025-10-07 10:02:04.191 [info] Received 'debugpySockets' event from debugpy.
+2025-10-07 10:02:57.209 [info] No workspace folder found
+2025-10-07 10:02:57.238 [info] Resolving launch configuration with substituted variables
+2025-10-07 10:02:57.238 [info] No workspace folder found
+2025-10-07 10:02:57.279 [info] DAP Server launched with command: /bin/python3 /home/mikel/.vscode/extensions/ms-python.debugpy-2025.10.0-linux-x64/bundled/libs/debugpy/adapter
+2025-10-07 10:02:57.449 [info] Received 'debugpySockets' event from debugpy.
+2025-10-07 10:02:57.452 [info] Received 'debugpySockets' event from debugpy.
+2025-10-07 10:02:57.453 [info] Received 'debugpySockets' event from debugpy.
+2025-10-07 10:02:57.955 [info] Received 'debugpySockets' event from debugpy.
+2025-10-07 10:02:58.950 [info] Received 'debugpySockets' event from debugpy.
+2025-10-07 10:02:58.967 [info] Received 'debugpySockets' event from debugpy.
