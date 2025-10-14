@@ -748,3 +748,71 @@ scp mikel@34.175.2.20:/etc/ssl/certs/labo4.crt
 scp mikel@34.175.2.20:/etc/ssl/certs/labo4.crt .
 ls -la
 ls
+history
+gpg --list-keys --keyid-format=lonf
+gpg --list-keys --keyid-format=long
+git config --global user.signingkey 7B8D2F797BD4214A
+git config --global commit.gpgsign true
+git config --global user.name Mikel Eguia Bengoa
+git config --global user.name MikeBarbeQ
+git config --global user.email meguiaissks@gmail.com
+git config --global user.email meguiabengoa@gmail.com
+git add .
+echo "prueba de firma" > test_firma.txt
+git add test.txt
+cd Documentos
+echo "prueba de firma" > test_firma.txt
+cd ..
+git add test_firma.txt
+git add .
+git commit -S -m "Mi commit firmado con GPG"
+git push origin main
+git branch
+git push origin master
+git remote -v
+git@github.com:MikeBarbeQ/ISSKS_PROGRAMS.git
+git remote add origin https://github.com/MikeBarbeQ/ISSKS_PROGRAMS
+git remote -v
+git push origin master
+git log --show-signature
+cd Documentos
+gpg --export --armor  meguiaissks@gmail > mikel_azterketaproba_clpub.asc
+gpg --import irakaslearen_gako_publikoa(1)
+gpg --import irakaslearen_gako_publikoa
+echo -e "# Ejercicio 9\n* **Nombre**: Tu Nombre Completo\n* **Fecha**: $(date +'%d/%m/%Y')" > Ejercicio9.md
+gpg --sign --encrypt --recipient "mikel.egana@ehu.eus" --armor -o Ejercicio9.asc Ejercicio9.md
+cd ..
+ssh mikel@file:///home/mikel/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202025-10-13%2016-39-13.png
+sudo nano /var/www/html/ssl-site/index.html
+sudo nano /etc/apache2/sites-available/000-default.conf
+sudo systemctl restart apache2
+ssh mikel@34.175.157.79
+ssh mikel@34.175.157.79
+gpg --full-generate-key
+gpg --list-keys --keyid-format=long
+gpg --armor --export 8C4317B4C9F35FD6
+git config --global user.signingkey 8C4317B4C9F35FD6
+git config --global commit.gpgsign true
+git config --global user.name MikeBarbeQ
+git config --global user.email meguiabengoa@gmail.com
+git add .
+git commit -S -m "Email proba berria da"
+git remote -v
+git push origin master
+git log --show-signature
+git push origin master
+git log --show-signature
+gpg --full-generate-key
+gpg --list-keys --keyid-format=long
+gpg --armor --export 2B8EC453517AAC0B
+git config --global user.signingkey 2B8EC453517AAC0B
+git config --global commit.gpgsign true
+git config --global user.name MikeBarbeQ
+git config --global user.email meguiaissks@gmail.com
+git add .
+git commit -S -m "Verify jarri mesedez"
+git remote -v
+git push origin master
+git log --show-signature
+cd .. 
+gpg --full-generate-key

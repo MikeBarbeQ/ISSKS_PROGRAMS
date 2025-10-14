@@ -1,0 +1,32 @@
+1. ARIKETA
+Lehenik eta behin, artxiboa deskonprimitu beharko da eta directorioan sartu. Behin directorioan sartuta, md5sum programa erabiltzen da hash-ak lortzeko eta mezuaren hasha lortzeko hurrengo komandoa erabiltzen da:
+
+md5sum * | grep '9e1cda999b728d2cd7c5ddb46a662522'
+
+2. ARIKETA
+
+Irakasleak, Shell Script HTML apunteak edo diapositiba berriak sortzeko erabiltzen du gero PDF batera trukatzeko shower pdf komandoarekin.
+
+MD5-eko hashing teknikak erabiltzen ditu, md5sum eta shower komandoak erabiltzen ditu eta PWD erabiltzen du egiten ari dena escritorio egokian dagoela baieztatzeko.
+
+3. ARIKETA
+sudo nano /var/www/html/ssl-site/index.html
+sudo nano /etc/apache2/sites-available/000-default.conf
+sudo systemctl restart apache2
+FIREFOX: http://34.175.157.79/ssl-site/
+
+4. ARIKETA
+sftp bgpegarm@34.175.157.79
+get README.md.gpg
+exit
+gpg --decrypt README.md.gpg > resultado_readme.md
+#Desencriptatzean mezua pantailan agertuko da.
+
+5. ARIKETA
+gpg --import Paco.asc
+gpg --edit-key paco@gmail.com
+
+trust
+quit
+
+6. ARIKETA

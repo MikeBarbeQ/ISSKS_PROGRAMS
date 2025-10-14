@@ -1054,4 +1054,81 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/mikel/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202025-10-13%2016-00-22.png" added="2025-10-13T14:00:22.240178Z" modified="2025-10-13T14:00:24.654673Z" visited="2025-10-13T14:00:22.240179Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-10-13T14:00:22.240179Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-10-13T14:00:24.654670Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202025-10-13%2016-17-11.png" added="2025-10-13T14:17:11.671087Z" modified="2025-10-13T14:17:11.671093Z" visited="2025-10-13T14:17:11.671089Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-10-13T14:17:11.671089Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Documentos/irakaslearen_gako_publikoa(1).asc" added="2025-10-13T14:23:35.077676Z" modified="2025-10-13T14:23:35.077683Z" visited="2025-10-13T14:23:35.077677Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-10-13T14:23:35.077679Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202025-10-13%2016-30-11.png" added="2025-10-13T14:30:11.133960Z" modified="2025-10-13T14:30:11.133965Z" visited="2025-10-13T14:30:11.133961Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-10-13T14:30:11.133961Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202025-10-13%2016-39-13.png" added="2025-10-13T14:39:13.517153Z" modified="2025-10-13T14:39:18.870169Z" visited="2025-10-13T14:39:13.517154Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-10-13T14:39:13.517154Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-10-13T14:39:18.870166Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Descargas/Examen-practico-GO2-SGSSI-continua-2.pdf" added="2025-10-14T11:40:09.104829Z" modified="2025-10-14T11:40:09.509320Z" visited="2025-10-14T11:40:09.104830Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;evince %U&apos;" modified="2025-10-14T11:40:09.104832Z" count="1"/>
+          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2025-10-14T11:40:09.509318Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Documentos/ISSKS/GitHub%20Token.txt" added="2025-10-14T12:48:18.608783Z" modified="2025-10-14T12:48:18.608788Z" visited="2025-10-14T12:48:18.608784Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-10-14T12:48:18.608786Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
