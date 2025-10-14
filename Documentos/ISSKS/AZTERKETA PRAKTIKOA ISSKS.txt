@@ -11,6 +11,36 @@ Irakasleak, Shell Script HTML apunteak edo diapositiba berriak sortzeko erabiltz
 
 MD5-eko hashing teknikak erabiltzen ditu, md5sum eta shower komandoak erabiltzen ditu eta PWD erabiltzen du egiten ari dena escritorio egokian dagoela baieztatzeko.
 
+3. ARIKETA
+ssh mikel@34.175.2.20
+
+sudo nano /var/www/html/ssl-site/index.html
+
+<h1>Examen 1 SEGURO - 831bdc94-a2a1-11f0-aae6-a3f788578463</h1>
+<p>Nombre</p>
+<p>Fecha</p>
+
+sudo nano /etc/apache2/sites-available/000-default.conf
+
+<VirtualHost *:80>
+    ServerAdmin webmaster@localhost
+    DocumentRoot /var/www/html
+
+    # Añade la siguiente línea para la redirección
+    Redirect permanent / https://34.175.2.20/ssl-site/
+    # Si tu sitio principal estuviera en la raíz y solo una parte en /ssl-site
+    # y quisieras que el dominio base redireccionara, usarías:
+    # Redirect permanent / https://34.175.2.20/
+
+    # Para que el contenido de HTTP sea también el de SSL si lo prefieres,
+    # pero la redirección es lo que pide.
+    # DocumentRoot /var/www/html/ssl-site
+    # ... otras configuraciones
+</VirtualHost>
+
+sudo systemctl restart apache2
+
+Eta gero nabigatzailea jarriz http://34.175.2.20/ssl-site/
 4. ARIKETA
 sftp bgpegarm@34.175.2.20
 get README.md.gpg
@@ -24,5 +54,51 @@ gpg --edit-key paco@gmail.com
 trust 
 quit
 
-6
+6. ARIKETA
+Hurrengo pausuak jarraitu:
+https://github.com/MikeBarbeQ/ISSKS_PROGRAMS/commit/a561bdca477012e28bc278f6af4ab5a10b74b8e1
 
+Hurrego pausuak jarraitu:
+Estekara sartu eta Verified jartzen duela konprobatu.
+
+7. ARIKETA
+gpg --import Mikel_Clave_Publica_GPG_GITHUB.asc
+git clone https://github.com/mikel-egana-aranguren/EHU-ISSKS-31
+cd EHU-ISSKS-31
+git log --show-signature 517b04879408606ab47c93119abbc5154e3e5537
+
+8.ARIKETA
+gpg --import Mikel_Clave_Publica_GPG.asc
+gpg --decrypt MikelFirmado.gpg> resultado.txt
+gpg: Firmado el lun 06 oct 2025 11:23:04 CEST
+gpg: usando EDDSA clave EDFE07159FB3BC26A99086B3E6DBECE68A62E856
+gpg: emisor "mikel.egana@ehu.eus"
+gpg: Firma correcta de "Mikel Egaña Aranguren (Github?) <mikel.egana@ehu.eus>"
+[desconocido]
+gpg: alias "Mikel Egaña Aranguren <mikel.egana@ehu.eus>" [desconocido]
+gpg: WARNING: The key's User ID is not certified with a trusted signature!
+gpg: No hay indicios de que la firma pertenezca al propietario.
+Huellas dactilares de la clave primaria: EDFE 0715 9FB3 BC26 A990 86B3 E6DB ECE6
+8A62 E856
+
+Sinadura egokia da, baina ez da konfidantzazkoa. Ez dakigu ezta gako horrek pertsonarena denik.
+
+9. ARIKETA
+gpg --export --armor  meguiaissks@gmail > mikel_azterketaproba_clpub.asc
+
+gpg --import irakaslearen_gako_publikoa.asc
+
+echo -e "# Ejercicio 9\n* **Nombre**: Tu Nombre Completo\n* **Fecha**: $(date +'%d/%m/%Y')" > Ejercicio9.md
+
+gpg --sign --encrypt --recipient "mikel.egana@ehu.eus" --armor -o Ejercicio9.asc Ejercicio9.md
+
+Eta irakaslea egin beharko duena da:
+- gpg --decrypt Ejercicio9.md.gpg
+
+Desenkriptatzean, mezu bat agertuko da pantailan nork egin duen.
+
+10. ARIKETA
+
+scp ruta/al/archivo/1017d7ea-a2a9-11f0-aea5-8fdf51dfad9d mikel@34.175.2.20:/home/Mikel/
+
+Eta 34.175.2.20 jarriz nabigatzailean.
