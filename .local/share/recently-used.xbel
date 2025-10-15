@@ -1110,13 +1110,13 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/mikel/Descargas/Examen-practico-GO2-SGSSI-continua-2.pdf" added="2025-10-14T11:40:09.104829Z" modified="2025-10-14T11:40:09.509320Z" visited="2025-10-14T11:40:09.104830Z">
+  <bookmark href="file:///home/mikel/Descargas/Examen-practico-GO2-SGSSI-continua-2.pdf" added="2025-10-14T11:40:09.104829Z" modified="2025-10-15T13:10:52.601330Z" visited="2025-10-14T11:40:09.104830Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
-          <bookmark:application name="org.gnome.Nautilus" exec="&apos;evince %U&apos;" modified="2025-10-14T11:40:09.104832Z" count="1"/>
-          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2025-10-14T11:40:09.509318Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;evince %U&apos;" modified="2025-10-15T13:10:52.180868Z" count="2"/>
+          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2025-10-15T13:10:52.601328Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1127,6 +1127,26 @@
         <mime:mime-type type="text/plain"/>
         <bookmark:applications>
           <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-10-14T12:48:18.608786Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Documentos/ISSKS/Azterketa_Praktika_Proba.txt" added="2025-10-14T13:38:50.328706Z" modified="2025-10-14T13:38:50.328712Z" visited="2025-10-14T13:38:50.328707Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-10-14T13:38:50.328709Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mikel/Documentos/ISSKS/AZTERKETA_PRAKTIKOA_ISSKS_2.txt" added="2025-10-15T13:08:06.340363Z" modified="2025-10-15T13:08:06.340369Z" visited="2025-10-15T13:08:06.340364Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-10-15T13:08:06.340366Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

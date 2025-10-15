@@ -1,0 +1,68 @@
+1. ARIKETA
+Lehenik eta behin, artxiboa deskonprimitu beharko da eta directorioan sartu. Behin directorioan sartuta, md5sum programa erabiltzen da hash-ak lortzeko eta mezuaren hasha lortzeko hurrengo komandoa erabiltzen da:
+
+md5sum * | grep '9e1cda999b728d2cd7c5ddb46a662522'
+
+2. ARIKETA
+
+Irakasleak, Shell Script HTML apunteak edo diapositiba berriak sortzeko erabiltzen du gero PDF batera trukatzeko shower pdf komandoarekin.
+
+MD5-eko hashing teknikak erabiltzen ditu, md5sum eta shower komandoak erabiltzen ditu eta PWD erabiltzen du egiten ari dena escritorio egokian dagoela baieztatzeko.
+
+3. ARIKETA
+sudo nano /var/www/html/ssl-site/index.html
+sudo nano /etc/apache2/sites-available/000-default.conf
+sudo systemctl restart apache2
+FIREFOX: http://34.175.157.79/ssl-site/
+
+4. ARIKETA
+sftp bgpegarm@34.175.157.79
+get README.md.gpg
+exit
+gpg --decrypt README.md.gpg > resultado_readme.md
+#Desencriptatzean mezua pantailan agertuko da.
+
+5. ARIKETA
+gpg --import Paco.asc
+gpg --edit-key paco@gmail.com
+
+trust
+quit
+
+6. ARIKETA
+https://github.com/MikeBarbeQ/ISSKS_PROGRAMS/commit/64e78c8af231be0ecfcb9bf652e5ec70e7208475
+
+Link honetara sartu eta "Verified" ikurra agertuko da.
+
+7. ARIKETA
+gpg --import Mikel_Clave_Publica_GPG_GITHUB.asc
+git clone https://github.com/mikel-egana-aranguren/EHU-SGSSI-01
+cd EHU-SGSSI-01/
+git log --show-signature 517b04879408606ab47c93119abbc5154e3e5537
+
+8. ARIKETA
+gpg --import Mikel_Clave_Publica_GPG.asc
+gpg --decrypt MikelFirmado.gpg > resultado.txt
+gpg: Firmado el lun 06 oct 2025 11:23:04 CEST
+​​gpg:usando EDDSA clave EDFE07159FB3BC26A99086B3E6DBECE68A62E856
+​​gpg:emisor "mikel.egana@ehu.eus"
+​
+​
+[desconocido]gpg: Firma correcta de "Mikel Egaña Aranguren (Github?) <mikel.egana@ehu.eus>"
+​​gpg:
+​​gpg: WARNING: The key's User ID is not certified with a trusted signature!
+​​gpg:alias "Mikel Egaña Aranguren <mikel.egana@ehu.eus>" [desconocido]
+No hay indicios de que la firma pertenezca al propietario.
+Huellas dactilares de la clave primaria: EDFE 0715 9FB3 BC26 A990 86B3 E6DB ECE6 8A62 E856
+
+Sinadura egokia da, baina ez da konfidantzazkoa.
+
+9. ARIKETA
+gpg --decrypt Ejercicio9.md.gpg
+
+Desenkriptatzean mezu bat pantailan agertuko litzateke.
+
+10. ARIKETA
+scp "ruta al archivo 1017d7ea-a2a9-11f0-aea5-8fdf51dfad9d" mikel@34.175.157.79:/home/bgpegarm/
+
+nabigatzailean 34.175.157.79 jarriz.

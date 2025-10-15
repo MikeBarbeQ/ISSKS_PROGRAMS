@@ -816,3 +816,33 @@ git push origin master
 git log --show-signature
 cd .. 
 gpg --full-generate-key
+cd Documentos
+sftp bgpegarm@34.175.157.79
+gpg --list-keys --keyid-format=long
+gpg --export --armor meguiaissks@gmail.com > mikel_azt_clpub.asc
+get README.md
+gpg --sign README.md
+scp README.md.asc mikel@34.175.157.79:/home/bgpegarm/
+scp README.md.gpg  mikel@34.175.157.79:/home/bgpegarm/
+gpg --clearsign README.md
+scp README.md.asc mikel@34.175.157.79:/home/bgpegarm/
+sudo chown mikel:mikel /home/bgpegarm
+sudo mkdir -p /home/bgpegarm
+sudo chown mikel:mikel /home/bgpegarm
+scp README.md.asc mikel@34.175.157.79:/home/bgpegarm/
+ls -l /home/bgpegarm/
+scp README.md.asc mikel@34.175.157.79:/home/bgpegarm/
+git --list-keys --keyid-format=long
+gpg --list-keys --keyid-format=long
+cd ..
+gpg --armor --export 2B8EC453517AAC0B
+git config --global user.signingkey 2B8EC453517AAC0B
+git config --global commit.gpgsign true
+git config --global user.name MikeBarbeQ
+git config --global user.email meguiaissks@gmail.com
+git add .
+git commit -S -m "comentario"
+git push origin master
+git log --show-signature
+ssh mikel@34.175.33.14
+ssh mikel@34.175.33.14

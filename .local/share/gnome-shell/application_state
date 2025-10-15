@@ -2,14 +2,13 @@
 <application-state>
   <context id="">
     <application id="outlook-ew_outlook-ew.desktop" score="189" last-seen="1760257928"/>
-    <application id="org.gnome.Evince.desktop" score="397" last-seen="1760446863"/>
-    <application id="org.gnome.seahorse.Application.desktop" score="17" last-seen="1759844600"/>
-    <application id="org.gnome.Nautilus.desktop" score="176" last-seen="1760444989"/>
+    <application id="org.gnome.Evince.desktop" score="406" last-seen="1760534785"/>
+    <application id="org.gnome.Nautilus.desktop" score="184" last-seen="1760535855"/>
+    <application id="firefox_firefox.desktop" score="7212" last-seen="1760536259"/>
     <application id="code_code.desktop" score="84" last-seen="1760257382"/>
-    <application id="firefox_firefox.desktop" score="7115" last-seen="1760447739"/>
-    <application id="org.gnome.Terminal.desktop" score="8400" last-seen="1760447885"/>
+    <application id="org.gnome.Terminal.desktop" score="8623" last-seen="1760536436"/>
     <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1760257913"/>
-    <application id="org.gnome.TextEditor.desktop" score="343" last-seen="1760447889"/>
+    <application id="org.gnome.TextEditor.desktop" score="542" last-seen="1760536352"/>
     <application id="update-manager.desktop" score="0" last-seen="1760172362"/>
     <application id="org.gnome.eog.desktop" score="6" last-seen="1760366362"/>
   </context>

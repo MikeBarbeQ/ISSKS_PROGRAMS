@@ -1,0 +1,42 @@
+1. ARIKETA
+BL.md da MD5-eko mezua. Eta eGela deskargatu ondoren, zip-a deskonprimitu behar da eta sartu directorioan. Bertan, md5sum komandoaren bitartez hash-a lortzen da, eta horren komandoa hurrengoa da: m5sum * | grep '9e1cda999b728d2cd7c5ddb46a662522'
+
+2. ARIKETA
+Irakasleak, Shell Script HTML apunteak edo diapositiba berriak sortzeko erabiltzen du gero PDF batera bihurtzeko shower pdf komandoarekin.
+
+MD5-eko hashing teknikak erabiltzen ditu, md5sum eta shower komandoak erabiltzen ditu eta PWD erabiltzen du egiten ari dena escritorio egokian dagoela ziurtatzeko.
+
+3. ARIKETA
+ssh mikel@34.175.33.14
+sudo nano /var/www/html/ssl-sites/index.html
+sudo nano /etc/apache2/sites-available/000-default.conf
+##El IP debe de estar comentado
+sudo systemctl restart apache2
+
+4. ARIKETA
+#NIK
+gpg --full-generate-key
+cd Documentos
+gpg --sign README.md
+sudo adduser bgpegarm
+sudo mkdir -p /home/bgpegarm
+cd ..
+sudo mv /home/mikel/Documentos/README.md.gpg /home/bgpegarm/
+sudo chown bgpegarm:bgpegarm /home/bgpegarm/README.md.gpg
+ls -l /home/bgpegarm
+
+#IRAKASLEAK
+sftp bgpegarm@34.175.33.14
+get README.md.gpg
+exit
+gpg --decrypt README.md.gpg > resultado_readme.md
+#Desenkriptatzean mezu bat agertuko da.
+
+5. ARIKETA
+gpg --import Paco.asc
+gpg --edit-key paco@gmail.com
+trust
+quit
+
+6. ARIKETA
+
